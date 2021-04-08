@@ -1,2 +1,2 @@
 # project-github
-Project GitHub 
+Repo ini merupakan repo untuk tugas Git & GitHub
